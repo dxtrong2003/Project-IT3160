@@ -15,6 +15,6 @@ Project này là chương trình giúp tìm đường đi giữa hai vị trí b
 * scikit-learn
 ## Chạy chương trình
 
-Trong **Command Prompt**, thực hiện lệnh **python run.py**, sau đó click chọn hai điểm bất kỳ trong vùng thuộc phường Nguyễn Du trên bản đồ (lưu ý nếu ngoài vùng này thì chương trình sẽ báo lỗi) rồi click chuột trái vào vị trí bất kỳ trên bản đồ và đường đi sẽ hiển thị sau vài giây.
+Tải các file và thư mục data ở trên. Trong **Command Prompt**, thực hiện lệnh **python run.py**, sau đó click chọn hai điểm bất kỳ trong vùng thuộc phường Nguyễn Du trên bản đồ (lưu ý nếu ngoài vùng này thì chương trình sẽ báo lỗi) rồi click chuột trái vào vị trí bất kỳ trên bản đồ và đường đi sẽ hiển thị sau vài giây.
 
 ![image](https://github.com/user-attachments/assets/db2e8d43-f197-4444-a547-8ab1f24ab8f3)
