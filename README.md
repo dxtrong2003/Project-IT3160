@@ -6,7 +6,7 @@
 - Nguyễn Nho Dũng
 - Lưu Trọng Tấn
 ## Nội dung
-Project này là chương trình giúp tìm đường đi giữa hai vị trí bất kỳ trên bản đồ phường Bùi Thị Xuân (nay là phường Nguyễn Du), quận Hai Bà Trưng, Hà Nội. Giải thuật sử dụng để tìm kiếm là thuật toán A*. Chương trình được viết bằng ngôn ngữ lập trình Python, có sử dụng module flask của Python, HTML và Javascript để tạo API.
+Project này là chương trình giúp tìm đường đi giữa hai vị trí bất kỳ trên bản đồ phường Bùi Thị Xuân (nay là phường Nguyễn Du), quận Hai Bà Trưng, Hà Nội. Giải thuật sử dụng để tìm kiếm là thuật toán A*. Chương trình được viết bằng ngôn ngữ lập trình Python, có sử dụng module **flask** của Python, HTML và Javascript để tạo API.
 ## Modules
 Để chương trình hoạt động, các module sau của Python cần được cài đặt thêm:
 * flask, flask_cors
