@@ -1,5 +1,5 @@
 # Project - IT3160 (HUST)
-Đây là project môn học Nhập môn Trí tuệ Nhân tạo của nhóm sinh viên gồm 5 thành viên:
+Đây là project môn học Nhập môn Trí tuệ Nhân tạo (do thầy Trần Đình Khang phụ trách) của nhóm sinh viên gồm 5 thành viên:
 - Đỗ Xuân Trọng (trưởng nhóm)
 - Phùng Thị Lan Anh
 - Hứa Minh Tuấn
